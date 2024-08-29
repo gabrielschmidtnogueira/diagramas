@@ -25,7 +25,7 @@
         <mxCell id="eLppLcB8d9XgdmEEtkOA-7" value="quantidade em estoque" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eLppLcB8d9XgdmEEtkOA-8" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLppLcB8d9XgdmEEtkOA-9" target="eLppLcB8d9XgdmEEtkOA-4">
+        <mxCell id="eLppLcB8d9XgdmEEtkOA-19" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLppLcB8d9XgdmEEtkOA-9" target="eLppLcB8d9XgdmEEtkOA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLppLcB8d9XgdmEEtkOA-9" value="possui" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="eLppLcB8d9XgdmEEtkOA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eLppLcB8d9XgdmEEtkOA-14" target="eLppLcB8d9XgdmEEtkOA-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLppLcB8d9XgdmEEtkOA-13" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eLppLcB8d9XgdmEEtkOA-14" target="eLppLcB8d9XgdmEEtkOA-9">
+        <mxCell id="eLppLcB8d9XgdmEEtkOA-13" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eLppLcB8d9XgdmEEtkOA-14" target="eLppLcB8d9XgdmEEtkOA-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLppLcB8d9XgdmEEtkOA-14" value="marca" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
